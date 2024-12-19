@@ -9,5 +9,5 @@
 
 ## GitHub Stats
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=jjeg1979&show_icons=true&theme=cobalt)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjeg1979&layout=compact&true&theme=cobalt)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Breadcrumbsjuanjoseexpositogonzalez&show_icons=true&theme=cobalt)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Breadcrumbsjuanjoseexpositogonzalez&layout=compact&true&theme=cobalt)
