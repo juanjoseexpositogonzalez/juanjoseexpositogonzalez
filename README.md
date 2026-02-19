@@ -13,6 +13,7 @@ Delivered production-ready AI assistant in 6-week mentorship sprint
 ⭐ Client Testimonial:
 "I learned the intricacies of developing RAG systems in 6 weeks that would have otherwise taken 6 months - 1 year on my own. Juanjo's deep knowledge of Python development, AI applications, and infrastructure were mind blowing. The proof is in the deliverable: a working AI application in 6 weeks. You should work with Juanjo."
 — Tim Gallati, Founder @ Quiet Links Library
+
 🛠 Technical Stack:
 
 - LLM & RAG: LangChain, LangGraph, OpenAI, Anthropic Claude, Weaviate, Pinecone
@@ -34,19 +35,132 @@ Currently taking on select clients for:
 
 I speak your language. Let's discuss how to turn your documentation chaos into a competitive advantage.
 
-## Some fucts about me
-- 👋 Hi, I’m @juanjoseexpositogonzalez
-- 👀 I’m experienced in AI, DeFi and blockchain development, web3, programming and new tech!
-- 🌱 I’m currently learning Rust.
-- 💞️ I’m looking to collaborate on blockchain projects.
+## Some facts about me
+- 👋 Hi, I'm @juanjoseexpositogonzalez
+- 👀 I'm experienced in AI, DeFi and blockchain development, web3, programming and new tech!
+- 🌱 I'm currently learning Rust.
+- 💞️ I'm looking to collaborate on blockchain projects.
 - 📫 How to reach me: expositogonzalezjuanjose@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy learning new things and am interested in Algorithmic Trading!
 
+---
+
+<!-- REPOS-START -->
+
+## Repository Showcase
+
+*Auto-updated daily. Organized by primary focus area.*
+
+### AI/RAG
+
+- **[ai_chatbot](https://github.com/juanjoseexpositogonzalez/ai_chatbot)** - Chatbot from AI Bootcamp
+  `Python` ⭐ 2
+
+- **[ai-billing-agent](https://github.com/juanjoseexpositogonzalez/ai-billing-agent)** - Ai Billing Agent project
+  `Python`
+
+- **[ai-expenses-agent](https://github.com/juanjoseexpositogonzalez/ai-expenses-agent)** - Ai Expenses Agent project
+  `Python`
+
+- **[expenses_ai_agent](https://github.com/juanjoseexpositogonzalez/expenses_ai_agent)** - Expenses Ai Agent project
+  `Python`
+
+- **[umbrella-onboarding](https://github.com/juanjoseexpositogonzalez/umbrella-onboarding)** - AI Agent for Umbrella Company Onboarding
+  `Python`
+
+- **[unstructured-rag](https://github.com/juanjoseexpositogonzalez/unstructured-rag)** - Use of unstructured RAG
+  `Various`
+
+### Blockchain/DeFi
+
+- **[amm](https://github.com/juanjoseexpositogonzalez/amm)** - Amm project
+  `JavaScript`
+
+- **[blockchain-developer-bootcamp](https://github.com/juanjoseexpositogonzalez/blockchain-developer-bootcamp)** - Blockchain Developer Bootcamp project
+  `Solidity`
+
+- **[bootcamp-v3-contracts](https://github.com/juanjoseexpositogonzalez/bootcamp-v3-contracts)** - Bootcamp V3 Contracts project
+  `JavaScript`
+
+- **[crowdsale](https://github.com/juanjoseexpositogonzalez/crowdsale)** - Crowdsale project
+  `JavaScript`
+
+- **[dao](https://github.com/juanjoseexpositogonzalez/dao)** - Dao project
+  `JavaScript`
+
+- **[dapp_punk](https://github.com/juanjoseexpositogonzalez/dapp_punk)** - Dapp Punk project
+  `Solidity`
+
+- **[deBank](https://github.com/juanjoseexpositogonzalez/deBank)** - Debank project
+  `JavaScript`
+
+- **[DeFi](https://github.com/juanjoseexpositogonzalez/DeFi)** - A Staking DApp (Blockchain Bootcamp)
+  `JavaScript`
+
+- **[foundry-fund-me](https://github.com/juanjoseexpositogonzalez/foundry-fund-me)** - Foundry Fund Me project
+  `Solidity`
+
+- **[loteria](https://github.com/juanjoseexpositogonzalez/loteria)** - Lottery Application from Blockchain-bootcamp 2024
+  `JavaScript`
+
+- **[MarketPlace](https://github.com/juanjoseexpositogonzalez/MarketPlace)** - MarketPlace with NFTs from Blockchain-Bootcamp 2024
+  `Various`
+
+### Python Tools
+
+- **[dev-journal](https://github.com/juanjoseexpositogonzalez/dev-journal)** - Dev Journal project
+  `Python`
+
+- **[django-saas](https://github.com/juanjoseexpositogonzalez/django-saas)** - Django Saas project
+  `Python`
+
+- **[finviz-api](https://github.com/juanjoseexpositogonzalez/finviz-api)** - A python API for Finviz Screener
+  `Python`
+
+- **[gestor_inventario](https://github.com/juanjoseexpositogonzalez/gestor_inventario)** - Proyecto de gestión de inventario con SQLite y Python
+  `Python`
+
+- **[snipster](https://github.com/juanjoseexpositogonzalez/snipster)** - Intermediate Cohort Project
+  `Python`
+
+- **[welbore_surveying](https://github.com/juanjoseexpositogonzalez/welbore_surveying)** - Welbore Surveying project
+  `Python`
+
+### Web/Frontend
+
+- **[andtech](https://github.com/juanjoseexpositogonzalez/andtech)** - Frontend for Andtech website
+  `TypeScript`
+
+### Rust
+
+- **[rust_json_parser](https://github.com/juanjoseexpositogonzalez/rust_json_parser)** - Rust Json Parser project
+  `Rust` ⭐ 2
+
+### Learning
+
+- **[aoc25](https://github.com/juanjoseexpositogonzalez/aoc25)** - Aoc25 project
+  `Python`
+
+### Other Projects
+
+- **[pyaglogen3D](https://github.com/juanjoseexpositogonzalez/pyaglogen3D)** - Pyaglogen3D project
+  `MATLAB`
+
+<!-- REPOS-END -->
+
+---
+
 ## GitHub Stats
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=juanjoseexpositogonzalez&show_icons=true&theme=cobalt)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanjoseexpositogonzalez&layout=compact&true&theme=cobalt)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=juanjoseexpositogonzalez&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanjoseexpositogonzalez&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
 
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juanjoseexpositogonzalez&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
