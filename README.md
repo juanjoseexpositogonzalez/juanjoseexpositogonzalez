@@ -60,12 +60,6 @@ I speak your language. Let's discuss how to turn your documentation chaos into a
 - **[ai-billing-agent](https://github.com/juanjoseexpositogonzalez/ai-billing-agent)** - Ai Billing Agent project
   `Python`
 
-- **[ai-expenses-agent](https://github.com/juanjoseexpositogonzalez/ai-expenses-agent)** - Ai Expenses Agent project
-  `Python`
-
-- **[expenses_ai_agent](https://github.com/juanjoseexpositogonzalez/expenses_ai_agent)** - Expenses Ai Agent project
-  `Python`
-
 - **[umbrella-onboarding](https://github.com/juanjoseexpositogonzalez/umbrella-onboarding)** - AI Agent for Umbrella Company Onboarding
   `Python`
 
