@@ -138,6 +138,9 @@ I speak your language. Let's discuss how to turn your documentation chaos into a
 
 ### Other Projects
 
+- **[mcp-server](https://github.com/juanjoseexpositogonzalez/mcp-server)** - Mcp Server project
+  `Various`
+
 - **[pyaglogen3D](https://github.com/juanjoseexpositogonzalez/pyaglogen3D)** - Pyaglogen3D project
   `MATLAB`
 
