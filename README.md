@@ -60,6 +60,9 @@ I speak your language. Let's discuss how to turn your documentation chaos into a
 - **[ai-billing-agent](https://github.com/juanjoseexpositogonzalez/ai-billing-agent)** - Ai Billing Agent project
   `Python`
 
+- **[mcp-rag-server](https://github.com/juanjoseexpositogonzalez/mcp-rag-server)** - Mcp Rag Server project
+  `Various`
+
 - **[umbrella-onboarding](https://github.com/juanjoseexpositogonzalez/umbrella-onboarding)** - AI Agent for Umbrella Company Onboarding
   `Python`
 
@@ -115,6 +118,9 @@ I speak your language. Let's discuss how to turn your documentation chaos into a
 - **[gestor_inventario](https://github.com/juanjoseexpositogonzalez/gestor_inventario)** - Proyecto de gestión de inventario con SQLite y Python
   `Python`
 
+- **[mcp-server](https://github.com/juanjoseexpositogonzalez/mcp-server)** - Mcp Server project
+  `Python`
+
 - **[snipster](https://github.com/juanjoseexpositogonzalez/snipster)** - Intermediate Cohort Project
   `Python`
 
@@ -137,9 +143,6 @@ I speak your language. Let's discuss how to turn your documentation chaos into a
   `Python`
 
 ### Other Projects
-
-- **[mcp-server](https://github.com/juanjoseexpositogonzalez/mcp-server)** - Mcp Server project
-  `Various`
 
 - **[pyaglogen3D](https://github.com/juanjoseexpositogonzalez/pyaglogen3D)** - Pyaglogen3D project
   `MATLAB`
