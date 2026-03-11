@@ -61,7 +61,7 @@ I speak your language. Let's discuss how to turn your documentation chaos into a
   `Python`
 
 - **[mcp-rag-server](https://github.com/juanjoseexpositogonzalez/mcp-rag-server)** - Mcp Rag Server project
-  `Various`
+  `Python`
 
 - **[umbrella-onboarding](https://github.com/juanjoseexpositogonzalez/umbrella-onboarding)** - AI Agent for Umbrella Company Onboarding
   `Python`
