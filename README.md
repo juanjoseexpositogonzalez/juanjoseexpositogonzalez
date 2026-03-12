@@ -144,6 +144,9 @@ I speak your language. Let's discuss how to turn your documentation chaos into a
 
 ### Other Projects
 
+- **[LIDR](https://github.com/juanjoseexpositogonzalez/LIDR)** - Lidr project
+  `Various`
+
 - **[pyaglogen3D](https://github.com/juanjoseexpositogonzalez/pyaglogen3D)** - Pyaglogen3D project
   `MATLAB`
 
