@@ -121,6 +121,9 @@ I speak your language. Let's discuss how to turn your documentation chaos into a
 - **[mcp-server](https://github.com/juanjoseexpositogonzalez/mcp-server)** - Mcp Server project
   `Python`
 
+- **[pyaglogen3D](https://github.com/juanjoseexpositogonzalez/pyaglogen3D)** - Pyaglogen3D project
+  `Python`
+
 - **[snipster](https://github.com/juanjoseexpositogonzalez/snipster)** - Intermediate Cohort Project
   `Python`
 
@@ -146,9 +149,6 @@ I speak your language. Let's discuss how to turn your documentation chaos into a
 
 - **[LIDR](https://github.com/juanjoseexpositogonzalez/LIDR)** - Lidr project
   `Various`
-
-- **[pyaglogen3D](https://github.com/juanjoseexpositogonzalez/pyaglogen3D)** - Pyaglogen3D project
-  `MATLAB`
 
 <!-- REPOS-END -->
 
