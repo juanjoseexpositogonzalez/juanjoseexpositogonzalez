@@ -135,6 +135,9 @@ I speak your language. Let's discuss how to turn your documentation chaos into a
 - **[andtech](https://github.com/juanjoseexpositogonzalez/andtech)** - Frontend for Andtech website
   `TypeScript`
 
+- **[clean-orders-ts](https://github.com/juanjoseexpositogonzalez/clean-orders-ts)** - Clean Orders Ts project
+  `TypeScript`
+
 ### Rust
 
 - **[rust_json_parser](https://github.com/juanjoseexpositogonzalez/rust_json_parser)** - Rust Json Parser project
