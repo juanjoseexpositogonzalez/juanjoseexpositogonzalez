@@ -143,6 +143,9 @@ I speak your language. Let's discuss how to turn your documentation chaos into a
 - **[rust_json_parser](https://github.com/juanjoseexpositogonzalez/rust_json_parser)** - Rust Json Parser project
   `Rust` ⭐ 2
 
+- **[rust-cohort](https://github.com/juanjoseexpositogonzalez/rust-cohort)** - Rust Cohort project
+  `Rust`
+
 ### Learning
 
 - **[aoc25](https://github.com/juanjoseexpositogonzalez/aoc25)** - Aoc25 project
